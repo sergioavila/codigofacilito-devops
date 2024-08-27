@@ -1,4 +1,5 @@
 # What The Hack - Modern development con DevOps y GitHub
+### Sergio Avila
 
 ## ¿Qué es What The Hack?
 
