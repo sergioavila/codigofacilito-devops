@@ -10,7 +10,6 @@ const Index = ({ pets }) => {
   return (
     <>
 
-      {/* TODO: Display Hours component */}
       <Hours />
       {/* Create a card for each pet */}
       {pets.map((pet) => (

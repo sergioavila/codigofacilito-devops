@@ -1,6 +1,4 @@
-// Placeholder to host a component
 const Hours = () => {
-    //get hour and minutes
     let hours = new Date().getHours();
     let minutes = new Date().getMinutes();
     return (<div>
